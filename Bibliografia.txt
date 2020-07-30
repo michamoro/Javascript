@@ -1,0 +1,10 @@
+Tertulia #1
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/var
+https://www.w3schools.com/js/js_variables.asp
+https://www.tutorialsteacher.com/javascript/javascript-variable
+https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Grammar_and_Types
+https://developer.mozilla.org/es/docs/Web/JavaScript/Data_structures
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Symbol
+https://developer.mozilla.org/es/docs/Learn/JavaScript/Building_blocks/conditionals
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/Conditional_Operator
+https://www.w3schools.com/js/js_comparisons.asp
