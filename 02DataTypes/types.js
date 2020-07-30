@@ -19,5 +19,9 @@ var obllect = new obyect();
 console.log(obllect.a);
 
 var arrai = ['a', 'b', 2]
-var dicshionari = {a: 1, b: 2, c: 'c'} // clave - valor
-
+var dicshionari = { a: 1, b: 2, c: 'c' } // clave - valor
+var yeison = { "a": "a", "b": "2" }
+var yeisonW3 = '{ "employees" : [' +
+    '{ "firstName":"John" , "lastName":"Doe" },' +
+    '{ "firstName":"Anna" , "lastName":"Smith" },' +
+    '{ "firstName":"Peter" , "lastName":"Jones" } ]}';
