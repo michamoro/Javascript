@@ -10,12 +10,12 @@ var simnbol = Symbol('foo') // unique and immutable
 simnbol = 'text'
 console.log(simnbol);
 
-class obyect {
+class Obyect {
     a = 1;
     b = '2';
     c = true;
 }
-var obllect = new obyect();
+var obllect = new Obyect();
 console.log(obllect.a);
 
 var arrai = ['a', 'b', 2]
