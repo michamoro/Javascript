@@ -4,7 +4,7 @@ function foo() {
     console.log(x);
 }
 
-// se entiende de esta manera:
+// the compiler understands the code in this way:
 
 function foo2() {
     var y;

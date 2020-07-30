@@ -1,6 +1,6 @@
 var a = 'global a';
-let b = 'global b'; // tiene un scope mas limitado (bloque)
-const MY_CONST = 'global c'; // debe ser inicializada y solo lectura
+let b = 'global b'; // global scope (bloque)
+const MY_CONST = 'global c'; // must be initialized and lecture only
 
 // let
 for (let b = 0; b < 3; b++) {
@@ -8,7 +8,7 @@ for (let b = 0; b < 3; b++) {
 }
 console.log(b);
 
-// const: similar a let pero no es redeclarable, pero si mutable
+// const: similar to let but not re-declarable, mutable.
 function foo() {
 
     let b = true;

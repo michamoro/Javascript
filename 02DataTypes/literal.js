@@ -1,4 +1,4 @@
-/* representar valores en JavaScript. */
+/* Value representation in JavaScript. */
 var literalArray = ["Mar", "José", "Lucía"];
 var literalBuleano = true;
 var literalEntero = 036;
