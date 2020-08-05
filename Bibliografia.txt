@@ -15,3 +15,6 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Bucles_e_iteraci%C3%B
 https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/for...in
 https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Sentencias/for
 https://www.w3schools.com/js/js_loop_while.asp
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Classes
+https://www.w3schools.com/js/js_object_classes.asp
+https://javascript.info/class
