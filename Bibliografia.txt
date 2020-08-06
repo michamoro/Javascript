@@ -18,3 +18,8 @@ https://www.w3schools.com/js/js_loop_while.asp
 https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Classes
 https://www.w3schools.com/js/js_object_classes.asp
 https://javascript.info/class
+https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Object/prototype
+https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/Object_prototypes
+https://www.w3schools.com/js/js_object_prototypes.asp
+https://es.stackoverflow.com/questions/2012/qu%C3%A9-son-los-prototipos-en-javascript-y-para-qu%C3%A9-sirven
+https://softwareengineering.stackexchange.com/questions/110936/what-are-the-advantages-of-prototype-based-oop-over-class-based-oop
